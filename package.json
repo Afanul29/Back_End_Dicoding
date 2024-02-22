@@ -1,0 +1,14 @@
+{
+  "name": "hapi-book-api",
+  "version": "1.0.0",
+  "description": "API untuk menyimpan, menampilkan, mengubah, dan menghapus data buku",
+  "main": "app.js",
+  "author": "afanul",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.1.3",
+    "nanoid": "^3.1.22"
+  }
+}
